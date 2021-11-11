@@ -1,3 +1,6 @@
+#this is the description of challenge.
+
+
 # scrapy_challenge
 
 This project is part of the job interview for joining Rentola's spiders team. You will need to use this project as the basic structure/template to implement a spider to crawl `https://londonrelocation.com/properties-to-rent/`.
